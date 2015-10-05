@@ -2,10 +2,19 @@ h1  {
     font-family:Verdana, Sans-serif;
     color:#576D94;
 }
+body: {
+    background-color:529ECC;
+}
+li {
+    font-family:Verdana;
+}
 p   {
     font-size:18px;
     color:#4a4943;
     font-family:Garamond, Serif;
+}
+padding {
+    height:10px;
 }
 img {
     height:100px;
@@ -16,3 +25,4 @@ a   {
     text-decoration:None;
     color:#cc0000;
 }
+
