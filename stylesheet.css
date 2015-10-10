@@ -2,7 +2,9 @@ h1  {
     font-family :Verdana, Sans-serif;
     color :#576D94;
 }
-
+border {
+    background-color:#529ECC;
+}
 li {
     font-family :Verdana;
 }
